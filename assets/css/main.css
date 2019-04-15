@@ -540,6 +540,10 @@ h3, .c-number {
   text-transform: uppercase;
 }
 
+.capitalize{
+    text-transform: capitalize;
+}
+
 a {
   text-decoration: none;
 }
@@ -2356,6 +2360,7 @@ img[height] {
   float: left;
   margin-right: 2.5rem;
   margin-bottom: 1.5rem;
+  min-height: 65px;
 }
 
 .c-clients a {
