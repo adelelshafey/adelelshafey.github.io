@@ -2193,7 +2193,9 @@ img[height] {
 
 @media (min-width: 1200px) {
   .c-avatar__img {
-    width: 100%;
+    /* width: 100%; */
+    width: 13rem;
+    border-radius: 4px;
   }
 }
 
