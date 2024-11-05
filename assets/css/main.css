@@ -2182,7 +2182,7 @@ img[height] {
 
 .c-avatar__img {
   /* border-radius: 50%; */
-  width: 11rem;
+  width: 100%;
 }
 
 @media (min-width: 760px) {
